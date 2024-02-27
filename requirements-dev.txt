@@ -16,7 +16,7 @@ twine>=1.11.0
 
 # for pypi markdown support
 readme_renderer
-setuptools>=40.4.2
+setuptools>=65.5.1
 
 # install flasgger itself as editable
 -e .
