@@ -21,3 +21,4 @@ setuptools>=40.4.2
 # install flasgger itself as editable
 -e .
 -e etc/flasgger_package
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
